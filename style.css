@@ -1,0 +1,85 @@
+/* this is a style of index.html 
+developed by amirrezamirzakhani ins:amir_.kuala */
+/* 
+    fonts :poppins from google fonts
+*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color:#4f92e3 ;
+}
+.container{
+    width: 800px;
+    height: 500px;
+    background-color: #f2f2f2;
+    height: 500px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; ;
+}
+.container .tools-area{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid rgba(54, 45, 54, 0.77);
+    padding: 0 10px;
+    margin: 0 5px;
+}
+.tools-area .tools{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:10px;
+    cursor: pointer;
+}
+input[type=color] {
+    border: 0;
+    width: 20px;
+    height: 20px;
+    background-color: transparent;
+    cursor: pointer;
+}
+input[type="color"]::-webkit-color-swatch-wrapper {
+    padding: 0;    
+}
+input[type="color"]::-webkit-color-swatch {
+    border: 2px solid lightgray;
+}
+label{
+    cursor: pointer;
+}
+.button button{
+    padding: 9px;
+    margin:  0 5px;
+    border-radius: 5px;
+    border: 0;
+    background-color: #4737371c;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+}
+.button .save{
+    background-color: #4f92e3;
+    color: white;
+}
+.button .clear:hover{
+    background-color: lightgray;
+}
+.draw-area canvas{
+    width: 100%;
+    height: 450px;
+    border-radius: 0 0 10px;
+}
+.active{
+    color: #4f92e3;
+}
