@@ -1,6 +1,6 @@
 # Paint App
 
-![Paint App Demo](screenshot.png)
+![Paint App Demo](https://github.com/amir-mirzakhani/paintapp.github.io/blob/main/amir-mirzakhani.github.io_paintapp.github.io_.png)
 
 The Paint App is a web-based application that allows users to draw and create digital artwork using various tools and colors. It provides a simple and intuitive user interface for a fun and creative painting experience.
 
@@ -15,14 +15,14 @@ The Paint App is a web-based application that allows users to draw and create di
 
 ## Demo
 
-You can try out the Paint App [here](https://your-app-url.com).
+You can try out the Paint App [here](https://amir-mirzakhani.github.io/paintapp.github.io/).
 
 ## Installation
 
 To run the Paint App locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Navigate to the project directory: `cd your-repo`
+1. Clone the repository: `git clone https://github.com/amir-mirzakhani/paintapp.github.io.git`
+2. Navigate to the project directory: `cd paintapp`
 3. Open the `index.html` file in your preferred web browser.
 
 ## Technologies Used
@@ -44,4 +44,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or inquiries, please contact [my email](irhplus98@gmail.com) or my [instagram](https://www.instagram.com/amir._.code/).
